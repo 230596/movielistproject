@@ -1,0 +1,22 @@
+.container.viewmovie{
+    height: 50vmax;
+}
+
+.ilusmov{
+    margin: 0;
+    padding: 0;
+    height: 30rem;
+}
+
+#search-button{
+    background-color: #f50057!important;
+    color: #fff;
+}
+
+#navbarcol{
+    background-color: #f50057!important;
+}
+
+#navbarcolor{
+    color: #fff!important;
+}
